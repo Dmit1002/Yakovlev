@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button Content="Нажми на меня&#xD;&#xA;" HorizontalAlignment="Left" Margin="269,259,0,0" VerticalAlignment="Top" Width="248" Height="79" FontSize="22" Click="Button_Click"/>
+        <Button Content="Нажми на меня&#xD;&#xA;" HorizontalAlignment="Left" Margin="269,259,0,0" VerticalAlignment="Top" Width="248" Height="79" FontSize="24" Click="Button_Click"/>
 
     </Grid>
 </Window>
